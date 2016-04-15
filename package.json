@@ -1,6 +1,6 @@
 {
   "name": "to-lower",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts string, as a whole, to lower case.",
   "main": "index.js",
   "scripts": {
@@ -25,12 +25,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/to-lower.git"
+    "url": "git+https://github.com/gearcase/to-lower.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/to-lower/issues"
+    "url": "https://github.com/gearcase/to-lower/issues"
   },
-  "homepage": "https://github.com/bubkoo/to-lower#readme",
+  "homepage": "https://github.com/gearcase/to-lower#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
